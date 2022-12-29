@@ -1,0 +1,19 @@
+{
+  "name": "minor/thread",
+  "authors": [
+    {
+      "name": "minororange",
+      "email": "minororange@foxmail.com"
+    }
+  ],
+  "require": {
+    "ext-parallel": "*",
+    "ext-zend opcache": "*",
+    "php": "8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Minor\\Thread\\": "src/"
+    }
+  }
+}
