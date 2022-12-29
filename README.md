@@ -6,7 +6,7 @@
 
 - 开启 `opcache` ，调整 `php.ini` 中的设置 `opcache.enable_cli=1`
 
-- PHP >= 8.0
+- PHP >= 8.0-zts (线程安全版本)
 
 ### Demo
 
