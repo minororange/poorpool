@@ -8,7 +8,6 @@
   ],
   "require": {
     "ext-parallel": "*",
-    "ext-zend opcache": "*",
     "php": "8.0"
   },
   "autoload": {
